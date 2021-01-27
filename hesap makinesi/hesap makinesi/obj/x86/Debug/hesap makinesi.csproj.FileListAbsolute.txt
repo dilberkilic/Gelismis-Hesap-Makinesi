@@ -1,0 +1,45 @@
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csproj.GenerateResource.Cache
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+c:\users\lab1_01\documents\visual studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+C:\Users\Lab1_01\Documents\Visual Studio 2010\Projects\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+E:\Yeni klasör\nesne tabamı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csproj.GenerateResource.Cache
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+E:\Yeni klasör\nesne tabanı proje\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csproj.GenerateResource.Cache
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Form1.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap_makinesi.Properties.Resources.resources
+E:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.csproj.GenerateResource.Cache
+G:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+G:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.exe
+H:\Yeni klasör\nesne tabanı proje dilber kılıç\hesap makinesi\hesap makinesi\obj\x86\Debug\hesap makinesi.pdb
